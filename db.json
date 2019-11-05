@@ -2,7 +2,7 @@
 	"activities": [{
 		"title": "Kamaz",
 		"currency": "RUB",
-		"isin": "RU000A0JW1},,
+		"isin": "RU000A0JW126",
 		"items": [
 			{"date": "2018-09-01T13:00:00+0300", "price": 99.53964},
 			{"date": "2018-09-01T15:00:00+0300", "price": 71.144485},
