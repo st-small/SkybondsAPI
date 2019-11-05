@@ -1,9 +1,8 @@
-
 [{
-	title: "Kamaz",
+	"title": "Kamaz",
 	"currency": "RUB",
 	"isin": "RU000A0JW126",
-	items: [{
+	"items": [{
 		"date": "2012-04-23T10:00:00.000Z",
 		"price": 70.0
 	}]
